@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "Clamentine updated",
+      "username": "Samantha",
+      "email": "nathan@yesenia.net",
+      "phone": "1-876-234-654 x9876",
+      "website": "ramiro.info"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Labsoke",
+      "username": "Karianne",
+      "email": "Julliane.Oconner@kory.org",
+      "phone": "1-935-641-0932 ",
+      "website": "kale.biz"
+    },
+    {
+      "id": 7,
+      "name": "kurstis Wessinat",
+      "username": "Elwen.Skiles",
+      "email": "telly.hoeger@billt.biz",
+      "phone": "770.736.8031",
+      "website": "elvis.io"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runnolfsghdt v",
+      "username": "Maxime.Nione",
+      "email": "sherwood@rozamond.me",
+      "phone": "756-345-237 x654",
+      "website": "jacynthe.com"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Dilphene",
+      "email": "chaim_mcdermot@dana.io",
+      "phone": "(1770)345-274 x473",
+      "website": "conrad.com"
+    },
+    {
+      "id": 10,
+      "name": "Clementia DuBuque",
+      "username": "Mariah.Stanton",
+      "email": "ray.badberg@kariana.biz",
+      "phone": "070-510-7613 ",
+      "website": "ambrose.net"
+    },
+    {
+      "name": "Rasheed ",
+      "email": "aldebrashed61@gmail.com",
+      "phone": "0937071349",
+      "id": 11
+    },
+    {
+      "name": "rasheed",
+      "email": "aldebrashed61@gmail.com",
+      "phone": "0937071349",
+      "id": 12
+    }
+  ]
+}
